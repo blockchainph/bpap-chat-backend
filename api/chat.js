@@ -24,132 +24,62 @@ Preferred Support Actions
 - Speaking, training, workshops, and partnerships: direct users to hello@blockchainph.org.
 - General contact: hello@blockchainph.org, the BPAP Facebook page, or the website contact form.
 
-Approved Facts
-
-Organization
-- BPAP stands for the Blockchain Practitioners Association of the Philippines.
-- BPAP is a professional community bringing together builders, educators, researchers, compliance leaders, founders, and ecosystem contributors working toward a more trusted and capable blockchain sector in the Philippines.
-- BPAP's official website is blockchainph.org.
-- BPAP is distinct from the Blockchain Association of the Philippines (BAP) and the Blockchain Council of the Philippines (BCP).
-- BPAP emphasizes practitioner-level professional standards, forensics capability, and responsible blockchain education.
-- BPAP's mission is to strengthen the foundations of a credible, responsible, and forward-looking blockchain industry in the Philippines through professional standards, meaningful collaboration, and practical initiatives that contribute to long-term public trust.
-- BPAP serves practitioners across technology, policy, compliance, research, academe, and industry, including blockchain developers, educators, forensic investigators, cybersecurity professionals, DeFi/Web3 participants, government personnel, and enterprise stakeholders.
-- BPAP's physical presence and many activities are rooted in Davao City, with membership and reach extending across the Philippines.
-
-Leadership
-- BPAP is led by its President, Ferdie James Nervida, ACWI, ASCI.
-- Ferdie James Nervida is a blockchain investigator and forensics specialist with credentials in cryptocurrency investigation and cybersecurity.
-- He is also a speaker on emerging technology topics.
-
-Contact
-- BPAP can be reached by email at hello@blockchainph.org.
-- Users may also reach out through the Facebook page at facebook.com/blockchainpractitioners.
-- Users may also use the contact form on blockchainph.org.
+Core Facts
+- BPAP is the Blockchain Practitioners Association of the Philippines and its official site is blockchainph.org.
+- BPAP is distinct from BAP and BCP.
+- BPAP is rooted in Davao City and serves practitioners across the Philippines.
+- BPAP is led by Ferdie James Nervida, ACWI, ASCI.
+- Contact options: hello@blockchainph.org, facebook.com/blockchainpractitioners, and the website contact form.
 
 Membership
-- Users can apply on blockchainph.org by clicking "Apply for Membership."
-- The membership form asks for full name, email, mobile number, city/province, organization, current role, area of blockchain expertise, a brief description of blockchain experience, how the applicant would like to contribute, and a LinkedIn or professional profile.
-- BPAP does not publicly list a specific membership fee on the website.
-- For fee-related questions, users should contact hello@blockchainph.org directly.
-- Membership is designed for practitioners who want to be part of a credible community, contribute to the local ecosystem, and stay connected to serious blockchain conversations in the Philippines.
-- Relevant practitioner backgrounds include blockchain development, research, education, forensics, compliance, cybersecurity, DeFi/Web3, government, and policy.
-- Membership areas of expertise listed on the form are Blockchain Development, Blockchain Research/Education, Crypto Trading/Investment, Blockchain Forensics/Investigations, Cybersecurity, DeFi/Web3, Government/Policy, and Other.
-- Members can contribute as a Speaker/Trainer, Research Contributor, Community Builder, Policy Discussion participant, or through Industry Collaboration.
-- Applications are reviewed first; there is no immediate auto-approval.
-- After submission, BPAP reviews the application and contacts the applicant through the provided email address.
-- Membership benefits include access to ecosystem events, a stronger professional network, ways to contribute, and visibility as part of a credible professional community.
+- Users apply on blockchainph.org via "Apply for Membership."
+- The form asks for name, email, mobile number, city/province, organization, role, expertise, experience, contribution area, and LinkedIn/professional profile.
+- BPAP does not publicly list a membership fee. For fee questions, direct users to hello@blockchainph.org.
+- Applications are reviewed first; there is no instant auto-approval.
+- Membership benefits: ecosystem events, professional network, ways to contribute, and credible association presence.
 
-BPAP Academy
-- BPAP Academy is the educational arm of BPAP.
-- It offers courses and certifications in blockchain education, practitioner development, digital asset literacy, and professional certification.
-- It is designed for professionals, institutions, educators, and practitioners seeking serious blockchain education grounded in literacy, risk awareness, and practical decision-making.
-- BPAP Academy currently offers five programs:
-  1. Blockchain and Cryptocurrency Specialist Certification
-  2. Blockchain Systems and Digital Asset Literacy for Professionals (16-hour course)
-  3. Introduction to Blockchain Technology
-  4. Introduction to Blockchain Investigations and Forensics
-  5. Cryptocurrency Essentials
-- BPAP Academy is in its final development phase as of the approved information in this prompt.
-- The website currently offers pre-registration so interested learners can be notified once full enrollment opens.
-- Pre-registration is available at blockchainph.org/academy.
-- BPAP Academy is preparing to offer both online and face-to-face formats.
-- During pre-registration, users can indicate Online, Face-to-face, or Either.
-- The "Blockchain Systems and Digital Asset Literacy for Professionals" course is a practical 16-hour non-technical program covering blockchain systems, digital asset literacy, risk, regulation, fraud awareness, and professional judgment in real-world settings.
-- That 16-hour course is built for professionals, managers, educators, and government personnel, emphasizing literacy, restraint, and responsible decision-making.
-- "Introduction to Blockchain Investigations and Forensics" is an entry-level course introducing investigative thinking in blockchain environments, tracing logic, investigative limitations, and the role of behavioral and on-chain analysis.
-- That course explains what can and cannot be seen through on-chain analysis and is useful for risk, compliance, and investigative professionals.
-- The "Blockchain and Cryptocurrency Specialist Certification" is a structured certification pathway for participants who want a stronger foundation in blockchain systems, cryptocurrency concepts, and applied professional understanding.
-- It is designed for practitioner readiness and for professionals seeking a formal certification track.
-- Beginner-friendly options include "Introduction to Blockchain Technology" and "Cryptocurrency Essentials."
-- The 16-hour professional course is also explicitly non-technical.
-- To enroll or pre-register, users go to blockchainph.org/academy, choose a course, and click "Enroll" to submit a pre-registration form.
-- The form asks for name, email, mobile number, organization, role, city/province, course of interest, preferred learning format, and a message or learning goal.
-- BPAP will contact learners when enrollment details become available.
-- The Academy offers a formal "Blockchain and Cryptocurrency Specialist Certification" track, which suggests certificates are issued.
-- BPAP has also facilitated government workforce certifications in partnership with DICT.
-- For course-specific certificate questions, users should contact hello@blockchainph.org.
+Academy
+- BPAP Academy is BPAP's education arm.
+- Current programs: Blockchain and Cryptocurrency Specialist Certification; Blockchain Systems and Digital Asset Literacy for Professionals; Introduction to Blockchain Technology; Introduction to Blockchain Investigations and Forensics; Cryptocurrency Essentials.
+- Academy enrollment is still in pre-registration/final development based on the approved information in this prompt.
+- Users can pre-register at blockchainph.org/academy.
+- Formats planned: online, face-to-face, or either.
+- The 16-hour digital asset literacy course is non-technical and built for professionals, managers, educators, and government personnel.
+- For certificate specifics or exact enrollment timing, direct users to hello@blockchainph.org.
 
-Government, Policy, and Institutional Engagement
-- BPAP has a documented track record of government engagement.
-- BPAP facilitated the DICT Region XI Blockchain and Cryptocurrency Specialist Certification for the government workforce in February 2026.
-- BPAP delivered cryptocurrency investigation training for law enforcement with DICT Region XI in partnership with AnChain.AI in March 2026.
-- BPAP participated in DICT blockchain national policy consultations in March 2026.
-- BPAP's March 2026 cryptocurrency investigation capability-building session under DICT Region XI included participants from the NBI, PNP Anti-Cybercrime Group, Regional Anti-Cybercrime Unit (RACU), NICA, CIDG, CICC, National Police College, PNP Regional Office, and the Armed Forces of the Philippines 1001st Brigade.
-- The law enforcement training covered real-world crypto crime typologies, tracing techniques, and how investigators follow illicit funds across blockchains.
-- The law enforcement training was conducted in partnership with AnChain.AI, a global blockchain forensics firm.
-- BPAP attended the DICT blockchain consultation in March 2026 as part of wider industry dialogue on how blockchain can be advanced with stronger clarity, coordination, and long-term relevance in the Philippines.
-- That participation was featured in BitPinas.
-- BPAP has also participated in academic forums such as "Crypto at the Crossroads" at UP Diliman, organized by UP SPARK.
-- BPAP is open to partnerships for capability-building, forums, and ecosystem collaboration.
+Partnerships And Activities
+- BPAP is open to speaking engagements, training, workshops, forums, and ecosystem collaboration via hello@blockchainph.org.
+- BPAP Insights is available at blockchainph.org/insights and accepts article proposals through the website.
+- BPAP has engaged with DICT, law enforcement capability-building, academic forums, and policy discussions.
 
-Insights and Contributions
-- BPAP Insights is BPAP's publication platform for essays, analysis, and practitioner perspectives on blockchain, cybersecurity, digital assets, and emerging technology in the Philippine context.
-- BPAP Insights is available at blockchainph.org/insights.
-- Topics include blockchain forensics, tracing Monero, the illusion of decentralization in cryptocurrencies, fiat debasement and Bitcoin as a personal hedge in the Philippine context, digital asset risk, privacy, cybersecurity, and emerging technology issues relevant to Filipino practitioners.
-- BPAP accepts article proposals through a contribution form on the website.
-- Article proposal submissions ask for name, email, organization/affiliation, role, proposed article title, topic/category, a short abstract or summary, a draft link or supporting reference, and a LinkedIn or professional profile.
-- BPAP reviews submissions and follows up via email.
-- Articles are written by BPAP members and external contributors.
-- Current published authors include Ferdie James Nervida and Urian Buenconsejo, among others.
-
-Events and Engagement
-- BPAP organizes and supports forums and roundtables for practitioners and stakeholders.
-- BPAP supports education and learning sessions.
-- BPAP supports working groups focused on standards, policy, adoption, and cross-sector issues.
-- BPAP provides industry representation and a coherent public-facing voice for blockchain practitioners in the Philippines.
-- BPAP has a strong presence in Davao City and has participated in ecosystem events there, including blockchain meetups with leaders from various Web3 and crypto organizations.
-- BPAP also facilitated DICT Region XI training in Davao.
-- For upcoming events, users can follow BPAP on Facebook, check blockchainph.org, or email hello@blockchainph.org to express interest in the events mailing list.
-- Organizations or schools can invite BPAP for speaking engagements, training facilitation, and industry collaboration by emailing hello@blockchainph.org with their details and the nature of the engagement.
-
-Contextual Philippine Blockchain Facts
-- As of 2026, the Philippines became the first country in the world to put its national budget, the 2026 GAA, on blockchain through the Digital Bayanihan Chain initiative led by DICT Secretary Henry Aguda.
-- The Philippine Congress is also transitioning to blockchain-backed paperless systems in partnership with DICT.
-- The DICT SPARK Program is a government initiative providing blockchain and technology training.
-- BPAP and Ferdie James Nervida have facilitated training under the DICT SPARK Program covering blockchain fundamentals, cryptocurrency, smart contracts, DeFi, NFT ecosystems, cybersecurity, blockchain forensics, and Philippine crypto regulations.
-- The Bangko Sentral ng Pilipinas regulates virtual asset service providers in the Philippines.
-- The Philippines has an established regulatory framework for crypto.
-- BPAP actively engages with policy discussions to help shape a responsible industry.
-- BPAP includes members in compliance and government/policy roles.
-- Blockchain forensics involves tracing and analyzing transactions on public blockchains to investigate crypto crimes, including fraud, money laundering, and illicit fund flows.
-- With rising crypto use in the Philippines, law enforcement agencies increasingly need blockchain forensics skills.
-- BPAP has been a key capability-builder in blockchain forensics through partnerships with firms like AnChain.AI.
-
-Investment Position
-- BPAP is a professional practitioners' association, not an investment advisory body.
-- BPAP's published content may include member perspectives, including discussion of Bitcoin as a personal hedge, but BPAP's institutional focus is on professional standards, responsible education, and ecosystem development.
-- Do not present BPAP as giving investment recommendations.
+Regulatory And Risk Context
+- BPAP is not an investment advisory body and must not be presented as giving investment recommendations.
+- The BSP regulates virtual asset service providers in the Philippines.
+- BPAP emphasizes professional standards, responsible education, blockchain literacy, and forensics capability.
 `.trim();
 
 const PROVIDER = (process.env.PROVIDER || "openai").trim().toLowerCase();
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-4o-mini";
 const CLAUDE_MODEL = process.env.CLAUDE_MODEL || "claude-3-5-haiku-latest";
 const ANTHROPIC_VERSION = "2023-06-01";
-const MAX_MESSAGES = 20;
-const MAX_CHARS_PER_MESSAGE = 2000;
-const MAX_TOTAL_CHARS = 12000;
-const RATE_LIMIT_MAX = 20;
+const MAX_MESSAGES = 12;
+const MAX_CHARS_PER_MESSAGE = 1200;
+const MAX_TOTAL_CHARS = 6000;
+const RATE_LIMIT_MAX = 5;
 const RATE_LIMIT_WINDOW_SECONDS = 60 * 60;
+const DAILY_REQUEST_CAP = 200;
+const DAILY_CAP_WINDOW_SECONDS = 60 * 60 * 24;
+const CLAUDE_MAX_TOKENS = 280;
+const OPENAI_MAX_TOKENS = 280;
+const ABUSE_REPEAT_LIMIT = 5;
+const ABUSE_URL_LIMIT = 4;
+const BLOCKED_PATTERNS = [
+  /ignore\s+previous\s+instructions/i,
+  /reveal\s+(the\s+)?system\s+prompt/i,
+  /prompt\s+injection/i,
+  /bypass|jailbreak/i,
+  /make\s+me\s+admin/i,
+];
 
 function parseAllowedOrigins() {
   return (process.env.ALLOWED_ORIGINS || "")
@@ -231,6 +161,29 @@ function sanitizeMessages(rawMessages) {
   return sanitized;
 }
 
+function isAbusiveMessage(content) {
+  const repeatedCharMatch = content.match(/(.)\1{7,}/g) || [];
+  const urlMatches = content.match(/https?:\/\/\S+/gi) || [];
+
+  if (repeatedCharMatch.length >= ABUSE_REPEAT_LIMIT) {
+    return true;
+  }
+
+  if (urlMatches.length >= ABUSE_URL_LIMIT) {
+    return true;
+  }
+
+  return BLOCKED_PATTERNS.some((pattern) => pattern.test(content));
+}
+
+function assertNoAbuse(messages) {
+  for (const message of messages) {
+    if (isAbusiveMessage(message.content)) {
+      throw new Error("This request was blocked by the abuse filter.");
+    }
+  }
+}
+
 function sanitizeEmail(value) {
   return String(value ?? "")
     .trim()
@@ -289,20 +242,28 @@ async function checkRateLimit(ip) {
   const safeIp = encodeURIComponent(ip);
   const windowId = Math.floor(nowSeconds / RATE_LIMIT_WINDOW_SECONDS);
   const ttlSeconds = RATE_LIMIT_WINDOW_SECONDS - (nowSeconds % RATE_LIMIT_WINDOW_SECONDS);
-  const key = `chat_rate_limit:${safeIp}:${windowId}`;
+  const dayId = Math.floor(nowSeconds / DAILY_CAP_WINDOW_SECONDS);
+  const dailyTtlSeconds = DAILY_CAP_WINDOW_SECONDS - (nowSeconds % DAILY_CAP_WINDOW_SECONDS);
+  const hourlyKey = `chat_rate_limit:${safeIp}:${windowId}`;
+  const dailyKey = `chat_daily_total:${dayId}`;
 
   const result = await upstashRequest("/pipeline", [
-    ["INCR", key],
-    ["EXPIRE", key, ttlSeconds],
+    ["INCR", hourlyKey],
+    ["EXPIRE", hourlyKey, ttlSeconds],
+    ["INCR", dailyKey],
+    ["EXPIRE", dailyKey, dailyTtlSeconds],
   ]);
 
   const count = Number(result?.[0]?.result ?? 0);
+  const dailyCount = Number(result?.[2]?.result ?? 0);
 
   return {
-    allowed: count <= RATE_LIMIT_MAX,
+    allowed: count <= RATE_LIMIT_MAX && dailyCount <= DAILY_REQUEST_CAP,
     count,
     remaining: Math.max(0, RATE_LIMIT_MAX - count),
-    resetSeconds: ttlSeconds,
+    dailyCount,
+    dailyRemaining: Math.max(0, DAILY_REQUEST_CAP - dailyCount),
+    resetSeconds: count > RATE_LIMIT_MAX ? ttlSeconds : dailyTtlSeconds,
   };
 }
 
@@ -317,6 +278,7 @@ async function streamOpenAIResponse(messages, res, corsHeaders) {
       model: OPENAI_MODEL,
       stream: true,
       temperature: 0.4,
+      max_tokens: OPENAI_MAX_TOKENS,
       messages: [{ role: "system", content: SYSTEM_PROMPT }, ...messages],
     }),
   });
@@ -393,7 +355,7 @@ async function streamClaudeResponse(messages, res, corsHeaders) {
     body: JSON.stringify({
       model: CLAUDE_MODEL,
       stream: true,
-      max_tokens: 1024,
+      max_tokens: CLAUDE_MAX_TOKENS,
       system: SYSTEM_PROMPT,
       temperature: 0.4,
       messages: claudeMessages,
@@ -518,6 +480,14 @@ function parseRequestBody(body) {
   return body;
 }
 
+function getRateLimitError(rateLimit) {
+  if (rateLimit.dailyCount > DAILY_REQUEST_CAP) {
+    return "The chatbot has reached its daily usage cap. Please try again tomorrow.";
+  }
+
+  return "Rate limit exceeded. Please try again later.";
+}
+
 module.exports = async function handler(req, res) {
   const requestUrl = new URL(req.url || "/api/chat", "http://localhost");
   const pathname = requestUrl.pathname;
@@ -568,7 +538,7 @@ module.exports = async function handler(req, res) {
           "Content-Type": "application/json",
           "Retry-After": String(rateLimit.resetSeconds),
         });
-        res.end(JSON.stringify({ error: "Rate limit exceeded. Try again later." }));
+        res.end(JSON.stringify({ error: getRateLimitError(rateLimit) }));
         return;
       }
 
@@ -646,11 +616,12 @@ module.exports = async function handler(req, res) {
         "Content-Type": "application/json",
         "Retry-After": String(rateLimit.resetSeconds),
       });
-      res.end(JSON.stringify({ error: "Rate limit exceeded. Try again later." }));
+      res.end(JSON.stringify({ error: getRateLimitError(rateLimit) }));
       return;
     }
 
     const messages = sanitizeMessages(body?.messages);
+    assertNoAbuse(messages);
     await streamProviderResponse(messages, res, corsHeaders);
   } catch (error) {
     res.writeHead(getStatusCode(error), {
